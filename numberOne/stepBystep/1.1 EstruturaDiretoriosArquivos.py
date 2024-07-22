@@ -1,0 +1,12 @@
+BRA/
+  ARG.txt
+  AFG.txt
+  ...
+ARG/
+  BRA.txt
+  AFG.txt
+  ...
+AFG/
+  BRA.txt
+  ARG.txt
+  ...

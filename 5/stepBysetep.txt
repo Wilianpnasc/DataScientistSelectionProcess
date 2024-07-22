@@ -1,0 +1,15 @@
+1 - Verificação de pressupostos do modelo: primeiramente certificamos se o modelo atende aos pressupostos básicos da regressão: linearidade, independência dos resíduos, homocedasticidade e normalidade dos resíduos.
+
+2 - Buscar Aumento do tamanho da amostra: obter mais dados para treinar o modelo pois, modelos de regressão, muitas vezes se beneficiam de um conjunto de dados maior para capturar melhor os padrões.
+
+3 - Etapa de Feature engineering: verificar a criação de novas variáveis explicativas com base no conhecimento do domínio visando ajudar o modelo a capturar melhor a relação entre as variáveis (independentes e dependentes).
+
+4 - Tratamento de valores ausentes e outliers: Avalie como lidar com valores ausentes e outliers nos dados. Preencher valores ausentes de forma adequada e considerar formas para mitigar o impacto de outliers pode melhorar o projeto.
+
+5 - Testes de algoritmos: experimentar modelos mais avançados como regressão robusta, árvores de decisão, ou métodos de aprendizado de máquina, dependendo dos dados disponíveis.
+
+6 - Validação cruzada: Utilize técnicas de validação cruzada para avaliar a performance do modelo. Isso ajuda a verificar se o modelo está generalizando bem para novos dados.
+
+7 - Interpretação dos coeficientes: verificar se os coeficientes estimados fazem sentido no contexto do problema pois, coeficientes insignificantes podem indicar que algumas variáveis não estão contribuindo para a explicação da variável dependente.
+
+8 - Consultar squad e especialistas: discutir o modelo e os resultados, a equipe pode fornecer insights valiosos e validar a abordagem metodológica.

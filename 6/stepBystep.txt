@@ -1,0 +1,5 @@
+Alternativa:
+
+d) Estrutura de dados em nuvem são ideais para a adoção de estratégias ELT, devido a
+maior rapidez no carregamento dos dados e a adequada capacidade de processamento
+posterior.
